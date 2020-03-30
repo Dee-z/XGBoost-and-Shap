@@ -7,5 +7,7 @@ Lookup code for XGBoost and Importance metrics using shap values
 
 Outputs:
 
+![image](https://user-images.githubusercontent.com/8051156/77879684-ee455180-7228-11ea-8f74-c090d1406806.png)
 
+![image](https://user-images.githubusercontent.com/8051156/77879712-02894e80-7229-11ea-94c4-24b50ea169de.png)
 
